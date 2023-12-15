@@ -1,0 +1,103 @@
+Rank,playerId,abbrevName,playerFullName,player,pos,newestTeamName,newestTeamAbbrevName,newestTeamId,newestTeamLocation,newestTeamLevel,batsHand,throwsHand,wOBA,xWOBA,xAVG,xOBP,OBP,AVG,AB,wSB,wOBA.,fWAR,RPW,RLR,rPOS,BSR,wRAA
+1,1198460928,J. Simons,Jacob Simons,Simons,CF,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,R,R,.465,.268,.168,.286,.441,.348,181,1.424,22,8.771,3.52,4.40,2.21,1.901,22.383
+2,1162557696,A. Camarillo,Ali Camarillo,Camarillo,2B,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,R,R,.444,.277,.240,.300,.424,.378,172,.032,17,8.057,3.38,3.86,6.16,.474,16.718
+3,1192238080,C. Burns,Connor Burns,Burns,C,Long Beach State University,LBSU,730224128,Long Beach State,BBC,R,R,.411,.281,.196,.273,.373,.309,194,-.540,13,7.911,3.33,4.40,9.72,-.468,12.719
+4,1174785536,A. Parker,Aaron Parker,Parker,C,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,R,R,.420,.324,.234,.338,.409,.316,171,.242,13,7.098,3.33,3.91,6.93,-.232,13.026
+5,1303057920,J. Sundstrom,Jared Sundstrom,Sundstrom,LF,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,R,R,.440,.397,.279,.359,.396,.321,168,1.094,16,6.718,3.39,3.84,1.77,1.293,15.880
+6,1309282816,M. Fuhrman,Michael Fuhrman,Fuhrman,C,UC San Diego,UCSD,730348032,UC San Diego,BBC,R,R,.420,.364,.221,.383,.438,.292,161,.850,13,6.149,3.45,4.21,2.09,1.477,13.420
+7,1197006849,J. Oyama,Joichiro Oyama,Oyama,2B,UC Irvine,UCI,3031,UC Irvine,BBC,L,R,.402,.429,.347,.443,.422,.322,208,1.399,13,6.081,3.52,5.35,1.82,1.526,12.705
+8,1237027328,A. Martinez,Anthony Martinez,Martinez,1B,UC Irvine,UCI,3031,UC Irvine,BBC,L,R,.459,.449,.377,.454,.467,.393,229,-.678,27,6.000,3.48,5.64,-10.45,-1.610,27.313
+9,1174784768,R. Stafford,Ryan Stafford,Stafford,DH,Cal Poly,CP,5487,Cal Poly,BBC,R,R,.382,.286,.237,.325,.384,.306,216,.593,8,5.570,3.42,5.05,5.38,.751,7.845
+10,1111437056,C. Kendle,Caden Kendle,Kendle,RF,UC Irvine,UCI,3031,UC Irvine,BBC,R,R,.419,.330,.242,.359,.437,.338,228,.556,18,5.518,3.63,5.94,-5.04,1.216,17.902
+11,1139926272,M. Wong,Matt Wong,Wong,CF,"University of Hawaii, Manoa",HAW,730158848,Hawaii,BBC,R,R,.414,.359,.277,.355,.401,.330,182,-.564,12,5.173,3.44,4.18,1.87,-.539,12.303
+12,1142522368,C. Call,Chase Call,Call,RF,UC Irvine,UCI,3031,UC Irvine,BBC,R,R,.421,.383,.218,.427,.460,.264,174,.149,16,5.042,3.45,4.94,-3.55,-.085,16.101
+13,1288961024,G. Tarlow,Graysen Tarlow,Tarlow,C,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,R,R,.378,.277,.211,.330,.417,.318,170,1.209,6,4.708,3.43,4.25,5.18,.959,5.779
+14,1330098177,W. Gleed,William Gleed,Gleed,3B,UC Irvine,UCI,3031,UC Irvine,BBC,R,R,.365,.277,.222,.319,.383,.298,215,-.225,4,4.638,3.33,5.00,7.56,-1.211,4.087
+15,1340468992,J. Long,Jonathon Long,Long,1B,Long Beach State University,LBSU,730224128,Long Beach State,BBC,R,R,.422,.368,.253,.353,.401,.310,210,-.189,16,4.510,3.36,4.87,-6.58,.401,16.466
+16,1302630656,T. Mccaffrey,Thomas Mccaffrey,Mccaffrey,C,UC Irvine,UCI,3031,UC Irvine,BBC,R,R,.392,.238,.145,.253,.408,.333,129,-.150,6,4.419,3.32,3.12,5.04,.125,6.404
+17,1136002816,M. Halbach,Matt Halbach,Halbach,1B,UC San Diego,UCSD,730348032,UC San Diego,BBC,R,R,.393,.350,.265,.369,.409,.313,195,-.369,9,4.344,3.40,4.58,1.27,-.521,9.428
+18,1213655552,D. Duarte,Dallas Duarte,Duarte,C,"University of Hawaii, Manoa",HAW,730158848,Hawaii,BBC,R,R,.369,.361,.282,.419,.399,.257,140,-.699,3,4.060,3.39,3.56,7.16,-.381,3.438
+19,1205939968,M. Kurata,Matt Kurata,Kurata,3B,CSU Bakersfield,CSB,730283008,CSU Bakersfield,BBC,R,R,.381,.296,.269,.341,.424,.363,146,.242,5,3.769,3.26,3.15,5.56,-1.469,5.035
+20,1079912960,M. Guzman,Moises Guzman,Guzman,CF,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,R,R,.371,.310,.186,.371,.425,.257,167,1.013,5,3.737,3.39,4.39,2.45,1.208,4.617
+21,1318244096,J. Steels,Jacob Steels,Steels,CF,Cal Poly,CP,5487,Cal Poly,BBC,R,R,.381,.305,.233,.366,.441,.324,176,-.144,6,3.676,3.50,4.39,2.20,-.142,6.416
+22,1286070016,Z. Lew,Zach Lew,Lew,2B,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,R,R,.369,.288,.185,.323,.391,.269,208,-.037,5,3.481,3.40,5.25,2.07,-.594,5.116
+23,1174787072,Z. Darby,Zander Darby,Darby,3B,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,L,R,.364,.293,.212,.324,.385,.285,200,-.143,4,3.156,3.38,4.76,2.08,.180,3.656
+24,1111880448,W. Bermudez,Will Bermudez,Bermudez,2B,UC Irvine,UCI,3031,UC Irvine,BBC,S,R,.360,.326,.221,.396,.420,.253,170,-.030,3,3.152,3.45,4.67,2.94,.632,2.626
+25,1162593536,S. Sakaino,Shunsuke Sakaino,Sakaino,2B,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,L,R,.366,.321,.262,.383,.425,.313,166,.610,3,3.100,3.39,4.10,2.64,.345,3.434
+26,1083912192,E. Gonzalez,Emiliano Gonzalez,Gonzalez,C,UC San Diego,UCSD,730348032,UC San Diego,BBC,R,R,.347,.254,.206,.289,.353,.279,147,-.129,0,3.019,3.33,3.30,7.38,-.696,.059
+27,1139711744,L. Spillane,Luke Spillane,Spillane,CF,UC Irvine,UCI,3031,UC Irvine,BBC,R,R,.375,.315,.265,.388,.415,.299,137,.686,4,3.008,3.39,3.62,2.05,.080,4.452
+28,1123958016,I. Brethowr,Ivan Brethowr,Brethowr,RF,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,R,R,.405,.363,.259,.361,.401,.306,170,-.095,10,2.961,3.34,3.86,-4.16,.111,10.081
+29,1278282752,A. Gouveia,Alex Gouveia,Gouveia,2B,UC Davis,UCD,730153984,UC Davis,BBC,R,R,.359,.267,.256,.292,.356,.327,199,.479,2,2.852,3.26,4.12,2.94,-.114,2.332
+30,1220004608,K. Fitzer,Kevin Fitzer,Fitzer,1B,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,R,R,.407,.332,.284,.362,.411,.341,170,1.002,11,2.824,3.36,3.92,-6.16,1.208,10.522
+31,1203894784,J. Sebring,Jonah Sebring,Sebring,SS,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,R,R,.388,.275,.248,.300,.371,.324,108,1.167,4,2.682,3.43,2.34,1.33,1.360,4.185
+32,1122167808,M. Le,Mason Le,Le,2B,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,R,R,.362,.261,.221,.297,.372,.304,148,1.294,2,2.592,3.36,3.29,1.56,1.643,2.208
+33,1320425472,C. Villegas,Collin Villegas,Villegas,LF,Cal Poly,CP,5487,Cal Poly,BBC,R,R,.375,.307,.220,.316,.355,.266,207,.229,6,2.419,3.35,4.75,-3.26,.580,6.029
+34,1126406400,A. Casillas,Aaron Casillas,Casillas,SS,Cal Poly,CP,5487,Cal Poly,BBC,R,R,.330,.241,.237,.274,.359,.327,220,-.391,-4,2.319,3.20,4.43,7.42,-.902,-3.528
+35,1188283648,J. Wright,Joey Wright,Wright,SS,UC Davis,UCD,730153984,UC Davis,BBC,R,R,.322,.252,.184,.309,.361,.246,175,.049,-5,2.289,3.25,4.06,7.28,.731,-4.632
+36,1223396608,S. Miyao,Stone Miyao,Miyao,2B,"University of Hawaii, Manoa",HAW,730158848,Hawaii,BBC,L,R,.362,.259,.188,.317,.404,.293,133,-.708,2,2.285,3.18,3.02,2.34,-.190,2.097
+37,1079913216,P. Hackworth,Patrick Hackworth,Hackworth,RF,UC San Diego,UCSD,730348032,UC San Diego,BBC,L,L,.395,.386,.333,.465,.458,.325,151,-.174,8,2.216,3.39,3.88,-4.93,.186,8.377
+38,1099364352,C. Hendriks,Cody Hendriks,Hendriks,3B,CSU Bakersfield,CSB,730283008,CSU Bakersfield,BBC,R,R,.368,.315,.276,.375,.423,.333,93,.277,2,1.965,3.24,2.11,2.24,-.045,2.066
+39,1318507776,J. Newman jr.,John Newman jr.,Newman jr.,C,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,R,R,.369,.328,.215,.383,.420,.261,88,.293,2,1.958,3.19,2.12,1.54,.408,2.190
+40,1174904320,J. Quandt,Jared Quandt,Quandt,RF,"University of Hawaii, Manoa",HAW,730158848,Hawaii,BBC,S,R,.403,.301,.180,.340,.432,.297,118,-.318,7,1.913,3.31,2.87,-4.10,.142,7.413
+41,1114484480,C. Robinson,Crew Robinson,Robinson,2B,UC San Diego,UCSD,730348032,UC San Diego,BBC,L,R,.354,.285,.183,.293,.372,.277,130,.490,1,1.891,3.25,2.97,1.84,.313,1.025
+42,1130289408,R. Fenn,Ryan Fenn,Fenn,PR,Cal Poly,CP,5487,Cal Poly,BBC,R,R,.355,.281,.272,.328,.395,.348,158,-.107,1,1.890,3.37,3.64,1.88,-.403,1.256
+43,1303037440,J. Kramer,Joey Kramer,Kramer,DH,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,R,R,.403,.254,.147,.276,.381,.271,107,.098,6,1.878,3.39,2.53,-2.29,-.169,6.306
+44,1225480704,B. Mortensen,Broc Mortensen,Mortensen,RF,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,L,R,.399,.331,.201,.347,.392,.257,136,-.322,8,1.857,3.31,3.36,-5.36,.208,7.946
+45,1116314880,C. Connor,Caden Connor,Connor,CF,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,L,L,.396,.296,.234,.331,.414,.333,222,-.611,12,1.721,3.33,5.27,-10.64,-.658,11.754
+46,1099160832,B. Larson,Brandon Larson,Larson,1B,UC San Diego,UCSD,730348032,UC San Diego,BBC,L,R,.380,.365,.240,.303,.354,.297,145,-.117,5,1.655,3.24,3.06,-1.66,-.692,4.655
+47,1125325824,K. Donahue,Kyson Donahue,Donahue,1B,"University of Hawaii, Manoa",HAW,730158848,Hawaii,BBC,L,L,.360,.393,.315,.379,.359,.292,171,-.147,2,1.582,3.29,3.80,-0.94,.063,2.283
+48,1330455040,D. Stone,Damian Stone,Stone,LF,UC Davis,UCD,730153984,UC Davis,BBC,S,R,.370,.369,.280,.374,.395,.304,184,-1.083,4,1.537,3.33,4.23,-3.16,-.366,4.406
+49,1284929792,M. Latta,Maddox Latta,Latta,2B,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,R,R,.337,.260,.225,.296,.349,.285,172,-.140,-2,1.465,3.28,3.88,2.70,.074,-1.856
+50,1318237440,J. Gallagher,Jack Gallagher,Gallagher,DH,UC Davis,UCD,730153984,UC Davis,BBC,R,R,.343,.271,.148,.244,.307,.219,146,-.102,-1,1.370,3.26,3.18,2.17,-.217,-.655
+51,1242045952,C. Urman,Cole Urman,Urman,DH,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,R,R,.300,.203,.186,.227,.305,.272,184,.075,-9,1.325,3.31,3.98,8.46,.564,-8.619
+52,1257421568,C. Nunez,Corey Nunez,Nunez,SS,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,R,R,.309,.245,.207,.284,.330,.258,178,-.140,-7,1.028,3.19,3.78,7.28,-1.042,-6.740
+53,1180845312,K. Ashworth,Kyle Ashworth,Ashworth,CF,Long Beach State University,LBSU,730224128,Long Beach State,BBC,S,R,.331,.258,.218,.315,.385,.301,163,-.376,-3,1.001,3.29,3.76,2.45,-.197,-2.724
+54,1179430400,N. Nankil,Nate Nankil,Nankil,RF,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,R,R,.369,.293,.250,.321,.380,.316,237,.013,5,.931,3.35,5.27,-7.70,.253,5.296
+55,1207881216,B. Zeigler-namoa,Bennett Zeigler-namoa,Zeigler-namoa,P,"University of Hawaii, Manoa",HAW,730158848,Hawaii,BBC,L,L,.380,.352,.200,.329,.410,.299,144,-.152,5,.889,3.38,3.47,-5.30,-.275,5.112
+56,1188214784,J. Igawa,Jacob Igawa,Igawa,LF,"University of Hawaii, Manoa",HAW,730158848,Hawaii,BBC,R,R,.371,.296,.233,.296,.385,.332,187,.033,4,.871,3.36,4.04,-5.06,-.378,4.321
+57,1086562304,B. Bobo,Brendan Bobo,Bobo,3B,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,L,R,.344,.336,.186,.341,.362,.212,160,.854,-1,.755,3.30,3.87,-2.05,1.250,-.576
+58,1192539648,N. Sudyka,Noah Sudyka,Sudyka,SS,UC San Diego,UCSD,730348032,UC San Diego,BBC,R,R,.301,.274,.206,.327,.331,.211,114,.692,-6,.743,3.21,2.78,5.46,.224,-6.086
+59,1140293120,M. Grace,Mason Grace,Grace,C,UC Riverside,UCRV,730281728,UC Riverside,BBC,R,R,.314,.318,.286,.373,.367,.280,93,-.108,-3,.738,3.19,2.06,4.14,-.658,-3.189
+60,1086594304,J. Haley,Jack Haley,Haley,SS,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,R,R,.311,.262,.191,.313,.355,.241,145,-1.680,-6,.691,3.24,3.39,6.14,-1.571,-5.715
+61,1111436544,A. Garcia-pacheco,Abraham Garcia-pacheco,Garcia-pacheco,C,UC Irvine,UCI,3031,UC Irvine,BBC,R,R,.313,.268,.185,.331,.381,.250,92,-.126,-4,.689,3.15,2.22,3.83,-.223,-3.651
+62,1263498752,M. Wolbert,Mark Wolbert,Wolbert,RF,UC Davis,UCD,730153984,UC Davis,BBC,L,L,.348,.272,.193,.311,.380,.275,182,-.750,0,.611,3.27,4.14,-1.92,-.497,.272
+63,1243726336,A. Mcfarland,Anthony Mcfarland,Mcfarland,3B,UC Riverside,UCRV,730281728,UC Riverside,BBC,R,R,.354,.220,.176,.264,.397,.325,160,-.548,1,.559,3.21,3.41,-1.38,-1.292,1.060
+64,1165471232,N. Salas,Nick Salas,Salas,2B,CSU Bakersfield,CSB,730283008,CSU Bakersfield,BBC,R,R,.303,.298,.198,.379,.382,.201,134,.649,-7,.519,3.28,3.38,4.44,.715,-6.837
+65,1180845568,T. Corio,Taison Corio,Corio,2B,Cal Poly,CP,5487,Cal Poly,BBC,S,R,.340,.303,.206,.311,.336,.235,115,-.102,-1,.366,3.22,2.59,0.24,-.794,-.856
+66,1268437248,C. Kirtley,Christian Kirtley,Kirtley,LF,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,R,R,.364,.337,.198,.308,.344,.240,183,-.721,3,.352,3.39,4.27,-5.82,-.464,3.201
+67,1333130240,K. Stancato,Kyler Stancato,Stancato,CF,CSU Bakersfield,CSB,730283008,CSU Bakersfield,BBC,L,L,.314,.263,.211,.299,.331,.248,117,.895,-4,.347,3.24,2.59,1.80,.667,-3.929
+68,1176418560,M. Smith,Myles Smith,Smith,CF,UC Irvine,UCI,3031,UC Irvine,BBC,L,R,.355,.265,.121,.355,.433,.230,122,1.037,1,.225,3.39,3.46,-4.70,.828,1.176
+69,1297583872,C. White,Carter White,White,LF,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,L,L,.345,.294,.277,.344,.384,.321,196,.825,0,.208,3.40,4.50,-4.73,1.361,-.428
+70,1091770112,R. Kasper,Riley Kasper,Kasper,3B,CSU Bakersfield,CSB,730283008,CSU Bakersfield,BBC,R,R,.328,.295,.267,.338,.367,.300,170,.223,-3,.208,3.28,3.70,-0.26,.429,-3.186
+71,1318839808,J. Donahue,Jordan Donahue,Donahue,SS,"University of Hawaii, Manoa",HAW,730158848,Hawaii,BBC,L,R,.288,.334,.279,.403,.351,.216,125,-.312,-8,.138,3.32,3.06,5.46,.175,-8.237
+72,1202684672,N. Marinconz,Nick Marinconz,Marinconz,SS,Long Beach State University,LBSU,730224128,Long Beach State,BBC,R,R,.286,.250,.246,.288,.316,.276,192,-.133,-12,-.101,3.20,4.00,6.86,.387,-11.571
+73,1139669248,J. Hammond,Jack Hammond,Hammond,1B,Long Beach State University,LBSU,730224128,Long Beach State,BBC,R,R,.354,.291,.217,.296,.337,.263,152,-.685,1,-.260,3.30,3.37,-4.06,-1.233,1.070
+74,1136001024,R. Peppi,Rocco Peppi,Peppi,3B,Long Beach State University,LBSU,730224128,Long Beach State,BBC,R,R,.356,.309,.244,.336,.370,.283,205,-.347,2,-.261,3.37,4.73,-7.27,-.232,1.902
+75,1263687424,J. Lopez,Jayden Lopez,Lopez,LF,UC Riverside,UCRV,730281728,UC Riverside,BBC,L,R,.349,.188,.072,.201,.357,.256,133,.084,0,-.391,3.26,3.02,-4.56,-.082,.348
+76,1252689664,A. Sojka,Andrew Sojka,Sojka,CF,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,L,R,.340,.344,.254,.384,.396,.270,126,.451,-1,-.508,3.33,3.22,-4.33,.486,-1.068
+77,1264343552,B. Griffin,Ben Griffin,Griffin,LF,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,R,R,.312,.239,.219,.261,.337,.301,93,-.465,-3,-.698,3.25,1.93,-0.30,-.787,-3.103
+78,1328910080,N. Barraza,Nathan Barraza,Barraza,1B,Cal State-Northridge,CSN,730380032,CSU Northridge,BBC,R,R,.348,.197,.165,.216,.362,.322,118,-.073,0,-.725,3.29,2.59,-5.21,.159,.076
+79,1242489600,J. Williams iii,James Williams iii,Williams iii,C,UC Davis,UCD,730153984,UC Davis,BBC,S,R,.306,.268,.179,.289,.333,.231,169,-.131,-7,-.770,3.20,3.74,1.46,-.384,-7.282
+80,1206987008,J. Stinson,Jacob Stinson,Stinson,RF,UC Irvine,UCI,3031,UC Irvine,BBC,L,R,.331,.210,.085,.278,.402,.250,88,-.107,-2,-.866,3.25,2.27,-3.36,.008,-1.730
+81,1103322112,T. Weaver,Tyler Weaver,Weaver,2B,UC Riverside,UCRV,730281728,UC Riverside,BBC,R,R,.275,.286,.258,.343,.316,.228,136,.503,-10,-.900,3.20,2.92,3.14,1.033,-9.972
+82,1155638016,E. Saldivar,Eddie Saldivar,Saldivar,3B,Long Beach State University,LBSU,730224128,Long Beach State,BBC,L,R,.307,.266,.259,.301,.322,.282,220,-.894,-9,-.940,3.33,4.77,2.90,-2.089,-8.717
+83,1229118720,R. Lee,Ryan Lee,Lee,C,UC Davis,UCD,730153984,UC Davis,BBC,R,R,.267,.225,.167,.277,.313,.209,86,-.081,-7,-1.046,3.19,1.87,2.12,-.202,-7.122
+84,1310424320,T. Shimao,Tate Shimao,Shimao,2B,Cal Poly,CP,5487,Cal Poly,BBC,R,R,.287,.221,.189,.253,.313,.255,145,-.107,-9,-1.354,3.24,3.06,0.68,.458,-8.595
+85,1212892672,D. Kane,Doyle Kane,Kane,1B,UC San Diego,UCSD,730348032,UC San Diego,BBC,R,R,.356,.324,.276,.353,.394,.323,192,-.978,2,-1.393,3.35,4.32,-9.16,-1.598,1.767
+86,1263499009,N. Leehey,Nick Leehey,Leehey,3B,UC Davis,UCD,730153984,UC Davis,BBC,R,R,.326,.319,.259,.350,.356,.267,180,-.183,-4,-1.445,3.25,3.99,-4.20,-.622,-3.871
+87,1330454016,N. Oakley,Nick Oakley,Oakley,2B,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,L,R,.275,.282,.185,.269,.270,.186,113,-.818,-8,-1.450,3.17,2.34,1.74,-.606,-8.075
+88,1309426944,C. Wallace,Colby Wallace,Wallace,RF,Cal State Fullerton,CSF,5414,CSU Fullerton,BBC,L,L,.299,.246,.167,.284,.342,.237,93,.101,-5,-1.677,3.26,2.12,-3.07,.235,-4.747
+89,1190293760,J. Shanks,Jacob Shanks,Shanks,DH,UC Riverside,UCRV,730281728,UC Riverside,BBC,R,R,.326,.305,.286,.353,.354,.287,174,.121,-4,-1.748,3.23,3.72,-6.35,.571,-3.589
+90,1162557440,L. Mccollum,Letrey Mccollum,Mccollum,LF,UC Santa Barbara,UCSB,730364160,UC Santa Barbara,BBC,R,R,.342,.287,.228,.347,.408,.302,179,.430,-1,-1.824,3.26,4.10,-9.50,.444,-.998
+91,1110437888,J. Walls,Joseph Walls,Walls,DH,Long Beach State University,LBSU,730224128,Long Beach State,BBC,R,R,.308,.246,.165,.256,.294,.208,120,-.078,-5,-1.922,3.31,2.66,-4.43,.162,-4.765
+92,1162037504,L. Helfrick,Leighton Helfrick,Helfrick,RF,UC Davis,UCD,730153984,UC Davis,BBC,R,R,.289,.236,.219,.271,.295,.245,98,.328,-5,-1.985,3.15,1.94,-3.02,.254,-5.417
+93,1228521728,A. Miller,A.j. Miller,Miller,RF,CSU Bakersfield,CSB,730283008,CSU Bakersfield,BBC,L,R,.323,.287,.210,.307,.335,.242,161,.253,-4,-2.001,3.28,3.58,-6.08,-.032,-4.027
+94,1310333440,W. King,Wyatt King,King,RF,Cal Poly,CP,5487,Cal Poly,BBC,R,R,.320,.280,.186,.331,.352,.211,147,-.918,-4,-2.002,3.23,3.45,-4.92,-.573,-4.419
+95,1179433472,A. Mata,Anthony Mata,Mata,SS,UC Riverside,UCRV,730281728,UC Riverside,BBC,R,R,.245,.283,.245,.331,.293,.200,135,-.672,-14,-2.196,3.21,2.99,5.18,-.830,-14.395
+96,1188215296,K. Palmeira,Konnor Palmeira,Palmeira,1B,CSU Bakersfield,CSB,730283008,CSU Bakersfield,BBC,R,R,.302,.300,.241,.343,.345,.242,99,-.105,-5,-2.369,3.24,2.21,-5.51,.281,-4.662
+97,1263684864,J. Badawi,Jacob Badawi,Badawi,LF,UC Riverside,UCRV,730281728,UC Riverside,BBC,R,R,.280,.140,.127,.153,.286,.266,154,.092,-10,-2.468,3.27,3.12,-1.56,.008,-9.635
+98,1078832384,B. Kleszcz,Brock Kleszcz,Kleszcz,RF,UC San Diego,UCSD,730348032,UC San Diego,BBC,R,R,.300,.167,.151,.200,.301,.261,134,-.080,-6,-2.620,3.23,2.77,-5.32,.214,-6.132
+99,1203413504,D. Martinez,Dominic Martinez,Martinez,3B,UC Riverside,UCRV,730281728,UC Riverside,BBC,L,R,.257,.211,.186,.238,.274,.225,151,-.851,-13,-2.944,3.18,3.06,1.15,-.491,-13.068
+100,1158561792,N. Iverson,Nick Iverson,Iverson,2B,UC Davis,UCD,730153984,UC Davis,BBC,R,R,.265,.236,.200,.272,.291,.221,131,-2.007,-11,-3.641,3.17,2.80,-1.12,-2.181,-11.033
+101,1228521472,J. Bell,James Bell,Bell,LF,CSU Bakersfield,CSB,730283008,CSU Bakersfield,BBC,R,R,.289,.249,.211,.258,.303,.259,185,-.522,-10,-3.973,3.20,3.72,-4.91,-1.397,-10.132
+102,1327711744,J. Yorke,Joe Yorke,Yorke,1B,Cal Poly,CP,5487,Cal Poly,BBC,L,R,.305,.254,.240,.272,.315,.285,200,-.159,-8,-4.305,3.20,4.02,-8.93,-.976,-7.899
