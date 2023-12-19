@@ -4,7 +4,7 @@ In the fall of 2023, I had the exciting opportunity to join the UC Santa Barbara
 While analyzing our team's data, I noticed an intriguing discrepancy: the Expected Batting Average (xAVG) of our players was significantly lower than their actual batting averages. xAVG, a metric predicting the likelihood of a batted ball becoming a hit, intrigued me. On Trumedia, xAVG is calculated based on two primary factors:
 
 
-**Launch Angle*:** The angle the ball comes off of the ball when hit into play
+**Launch Angle:** The angle the ball comes off of the ball when hit into play
 
 **Exit Velocity:** The exit velocity in mph the ball comes off of the bat
 
