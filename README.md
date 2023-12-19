@@ -1,3 +1,7 @@
+UCSB_Baseball_Project_Report_NoCode.html - Final report with no code blocks
+
+UCSB_Baseball_Project_Report_Code.html - Final report with code blocks
+
 # Introduction
 In the fall of 2023, I had the exciting opportunity to join the UC Santa Barbara Baseball Analytics Team as a research analyst. Collaborating with fellow UCSB students, my role involved diving deep into the world of baseball analytics. During the 10-week fall quarter, we embarked on an independent research project, which led me to explore Trumedia, an extensive online database featuring a wealth of college baseball statistics and advanced metrics.
 
