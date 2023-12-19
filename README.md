@@ -8,7 +8,7 @@ While analyzing our team's data, I noticed an intriguing discrepancy: the Expect
 
 **Exit Velocity:** The exit velocity in mph the ball comes off of the bat
 
-This straightforward calculation, relying solely on exit velocity and launch angle, appeared overly simplistic at first glance. It is true in baseball that a ball hit with a higher exit velocity is generally more challenging to field due to the decreased reaction time. The formula used for the MLB xAVG seems to preform well but the MLB uses sprint speed as a factor which is not avaliable to me on Trumedia. This led me to delve deeper into the nuances of these statistics and their implications in baseball analytics.
+This straightforward calculation, relying solely on exit velocity and launch angle, appeared overly simplistic at first glance. It is true in baseball that a ball hit with a higher exit velocity is generally more challenging to field due to the decreased reaction time. The formula used for the MLB xAVG seems to perform well but the MLB uses sprint speed as a factor which is not available to me on Trumedia. This led me to delve deeper into the nuances of these statistics and their implications in baseball analytics.
 
 # My Solution
 While I still acknowledge the significance of exit velocity and launch angle in baseball analytics, I believe there's a broader narrative to uncover. To expand our understanding, I introduced a novel variable named **pCallStrike%**. This metric estimates the likelihood that a pitch would have been called a strike had the batter not swung. Including this allows us to integrate pitch location into our new metric, crucial since hitting a ball thrown down the middle is easier than one on the edge of the strike zone.
